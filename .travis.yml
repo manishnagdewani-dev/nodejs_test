@@ -1,7 +1,6 @@
 language: node_js
-dist: bionic
 node_js:
-  - 18
+  - 16
 install:
   - npm install
 script:
